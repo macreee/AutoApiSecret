@@ -1,1 +1,1 @@
-(https://github.com/wangziyingwen/AutoApiSecret)[原作者仓库]
+[原作者仓库](https://github.com/wangziyingwen/AutoApiSecret)
